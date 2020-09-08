@@ -1,1 +1,1 @@
-## Welcome to Modyo GitHub
+## Welcome to Modyo GitHub Pages
